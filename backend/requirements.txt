@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+langgraph
+google-genai
+python-dotenv
+arxiv
+ddgs
